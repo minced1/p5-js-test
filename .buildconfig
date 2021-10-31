@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+toolchain=default
+config-opts=
+run-opts=
+prefix=/home/jasper/.cache/gnome-builder/install/test/host
+app-id=
+postbuild=
+prebuild=
